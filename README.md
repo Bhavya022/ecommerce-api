@@ -12,7 +12,7 @@ This is a RESTful API for a simple e-commerce application. It manages products, 
 - **Swagger Documentation**: API documentation available at `/api-docs`.
 
 ## Getting Started
-
+## Deployed Link - https://ecommerce-api-lx0r.onrender.com/
 ### Prerequisites
 
 - Node.js (LTS version recommended)
